@@ -1,40 +1,29 @@
-# Twitter Sentimental Analysis 🐦📊  
-### Machine Learning–Based Sentiment Classification Using NLP
+# Twitter Sentimental Analysis 🐦📊
 
-Twitter Sentimental Analysis is a machine learning project that analyzes and classifies the sentiment of tweets as **positive or negative** using **Natural Language Processing (NLP)** techniques and a **Naive Bayes classifier**.  
-The system extracts meaningful insights from unstructured Twitter data to understand public opinion.
+Twitter Sentimental Analysis is a machine learning project that classifies tweets as **positive or negative** using **Natural Language Processing (NLP)** and a **Naive Bayes classifier**.  
+The project helps understand public opinion by analyzing large volumes of Twitter data.
 
----
+## 🔍 Features
+- Tweet preprocessing using NLP techniques  
+- Feature extraction using TF-IDF  
+- Sentiment classification with Naive Bayes  
+- Performance evaluation using accuracy and F1-score  
 
-## 📌 Project Overview
+## 🛠 Technologies Used
+- Python  
+- Scikit-learn  
+- NLTK  
+- Pandas, NumPy  
+- Matplotlib  
 
-Twitter is one of the largest social media platforms where users express opinions on products, events, and social issues.  
-This project focuses on analyzing tweets to determine their sentiment automatically.
+## 📊 Results
+- Achieved ~78% accuracy in sentiment classification  
+- Efficient and lightweight ML model  
 
-The system processes raw tweets, cleans the text, extracts features using **TF-IDF**, and applies a **Naive Bayes classifier** to predict sentiment.
+## 🚀 Future Scope
+- Neutral sentiment detection  
+- Deep learning models (LSTM, CNN)  
+- Real-time Twitter stream analysis  
 
----
-
-## 🎯 Objectives
-
-- Collect and preprocess Twitter data  
-- Clean and normalize text using NLP techniques  
-- Extract features using TF-IDF  
-- Build a sentiment classification model using Naive Bayes  
-- Evaluate model performance using accuracy and other metrics  
-
----
-
-## 🧠 Technologies Used
-
-- **Programming Language:** Python  
-- **Libraries & Frameworks:**
-  - Scikit-learn
-  - NLTK
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-  - Tweepy (Twitter API)
-- **Development Tool:** Jupyter Notebook  
-- **Deployment (Option**
+## 👤 Author
+**Kishore Elangovan**
