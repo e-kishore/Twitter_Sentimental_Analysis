@@ -19,6 +19,7 @@ The project helps understand public opinion by analyzing large volumes of Twitte
 ## 📊 Results
 - Achieved ~78% accuracy in sentiment classification  
 - Efficient and lightweight ML model  
+<img width="1693" height="728" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/b1b56590-479b-46c9-8d5d-e9275f90142b" />
 
 ## 🚀 Future Scope
 - Neutral sentiment detection  
